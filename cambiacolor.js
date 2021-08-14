@@ -9,7 +9,7 @@ function generarNuevoColor(){
 
 	document.body.style.background = color;
 	document.getElementById("hexadecimal").innerHTML = color;
-	document.getElementById("text").innerHTML = "Copiar Color";
+	document.getElementById("text").innerHTML = "Color";
 }
 
 function copiarAlPortapapeles(hexadecimal) {
