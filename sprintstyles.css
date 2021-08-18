@@ -87,6 +87,7 @@ section.form{
 }
 
 
+
 .formulario {
     display: flex;
     flex-direction: column;
@@ -136,6 +137,8 @@ table{
     padding-top: 20px;
 
 }
+
+
 /*
 td {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
